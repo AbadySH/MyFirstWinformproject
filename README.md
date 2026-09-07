@@ -40,11 +40,11 @@ This project helped me practice:
 
 -Main Interface
 
-![Main Page](ScreenShots/main-interface.png)
+![Main interface](ScreenShots/main-interface.png)
 
 -Order Summary
 
-![Main Page](ScreenShots/order-summary.png)
+![order summary](ScreenShots/order-summary.png)
 
 🛠️ Built With
 
