@@ -48,15 +48,5 @@ This project helped me practice:
 * C#
 * .NET
 * Windows Forms
-* Visual Studio / JetBrains Rider🛠️ Built With
-
-* C#
-* .NET
-* Windows Forms
 * Visual Studio / JetBrains Rider
-
-* .NET
-* Windows Forms
-* Visual Studio / JetBrains Rider
-
 
