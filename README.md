@@ -39,6 +39,7 @@ This project helped me practice:
 📸 Screenshots
 
 -Main Interface
+(ScreenShots/main-interface.png)
 ![Main Page](ScreenShots/main-interface.png)
 -Order Summary
 ![Main Page](ScreenShots/order-summary.png)
