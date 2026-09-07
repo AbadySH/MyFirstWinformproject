@@ -39,9 +39,9 @@ This project helped me practice:
 📸 Screenshots
 
 -Main Interface
-
+![Main Page](main-interface.png)
 -Order Summary
-
+![Main Page](order-summary.png)
 
 🛠️ Built With
 
@@ -58,3 +58,5 @@ This project helped me practice:
 * .NET
 * Windows Forms
 * Visual Studio / JetBrains Rider
+
+
