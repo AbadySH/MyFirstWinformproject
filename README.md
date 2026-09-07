@@ -39,9 +39,9 @@ This project helped me practice:
 📸 Screenshots
 
 -Main Interface
-![Main Page](main-interface.png)
+![Main Page](ScreenShots/main-interface.png)
 -Order Summary
-![Main Page](order-summary.png)
+![Main Page](ScreenShots/order-summary.png)
 
 🛠️ Built With
 
