@@ -1,0 +1,17 @@
+C:\Users\Abady\source\repos\MyFirstWiinFrameProject\bin\Debug\net10.0-windows\MyFirstWiinFrameProject.exe
+C:\Users\Abady\source\repos\MyFirstWiinFrameProject\bin\Debug\net10.0-windows\MyFirstWiinFrameProject.deps.json
+C:\Users\Abady\source\repos\MyFirstWiinFrameProject\bin\Debug\net10.0-windows\MyFirstWiinFrameProject.runtimeconfig.json
+C:\Users\Abady\source\repos\MyFirstWiinFrameProject\bin\Debug\net10.0-windows\MyFirstWiinFrameProject.dll
+C:\Users\Abady\source\repos\MyFirstWiinFrameProject\bin\Debug\net10.0-windows\MyFirstWiinFrameProject.pdb
+C:\Users\Abady\source\repos\MyFirstWiinFrameProject\obj\Debug\net10.0-windows\MyFirstWiinFrameProject.Form1.resources
+C:\Users\Abady\source\repos\MyFirstWiinFrameProject\obj\Debug\net10.0-windows\MyFirstWiinFrameProject.csproj.GenerateResource.cache
+C:\Users\Abady\source\repos\MyFirstWiinFrameProject\obj\Debug\net10.0-windows\MyFirstWiinFrameProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abady\source\repos\MyFirstWiinFrameProject\obj\Debug\net10.0-windows\MyFirstWiinFrameProject.AssemblyInfoInputs.cache
+C:\Users\Abady\source\repos\MyFirstWiinFrameProject\obj\Debug\net10.0-windows\MyFirstWiinFrameProject.AssemblyInfo.cs
+C:\Users\Abady\source\repos\MyFirstWiinFrameProject\obj\Debug\net10.0-windows\MyFirstWiinFrameProject.csproj.CoreCompileInputs.cache
+C:\Users\Abady\source\repos\MyFirstWiinFrameProject\obj\Debug\net10.0-windows\MyFirstWiinFrameProject.dll
+C:\Users\Abady\source\repos\MyFirstWiinFrameProject\obj\Debug\net10.0-windows\refint\MyFirstWiinFrameProject.dll
+C:\Users\Abady\source\repos\MyFirstWiinFrameProject\obj\Debug\net10.0-windows\MyFirstWiinFrameProject.pdb
+C:\Users\Abady\source\repos\MyFirstWiinFrameProject\obj\Debug\net10.0-windows\MyFirstWiinFrameProject.genruntimeconfig.cache
+C:\Users\Abady\source\repos\MyFirstWiinFrameProject\obj\Debug\net10.0-windows\ref\MyFirstWiinFrameProject.dll
+C:\Users\Abady\source\repos\MyFirstWiinFrameProject\obj\Debug\net10.0-windows\MyFirstWiinFrameProject.Properties.Resources.resources
